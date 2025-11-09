@@ -11,3 +11,7 @@ target/
 .vscode/
 *.iml
 .DS_Store
+
+
+# Sometimes, this output is useful.
+a.out
